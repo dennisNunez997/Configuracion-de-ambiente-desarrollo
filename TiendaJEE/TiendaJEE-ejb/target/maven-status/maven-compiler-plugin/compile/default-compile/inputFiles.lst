@@ -1,0 +1,10 @@
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/entidades/session/CargoFacade.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/entidades/session/EstadocivilFacade.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/entidades/session/EmpleadoFacade.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/tienda/entidades/Cargo.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/entidades/session/AbstractFacade.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/tienda/entidades/Estadocivil.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/entidades/session/CargoFacadeLocal.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/entidades/session/EmpleadoFacadeLocal.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/tienda/entidades/Empleado.java
+/home/dennis/NetBeansProjects/TiendaJEE/TiendaJEE-ejb/src/main/java/com/entidades/session/EstadocivilFacadeLocal.java
